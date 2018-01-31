@@ -1,11 +1,12 @@
+"use strict";
+
 console.log("Hari Om!");
 // JSX - JavaScript XML
-// var template = <p> This is a template rendered from app.js </p>;
 var template = React.createElement(
-    "p",
-    null,
-    " This is a template rendered from app.js "
-  );
+  "h1",
+  null,
+  " Hari Sarvothama Vaayu Jeevothama "
+);
 var appRoot = document.getElementById('app');
 
-ReactDOM.render(template,appRoot);
+ReactDOM.render(template, appRoot);
