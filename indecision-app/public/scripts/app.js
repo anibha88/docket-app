@@ -15,6 +15,8 @@ var template = React.createElement(
         null,
         "It is further explained that Maha-Vishnu, who appears in the Karana Ocean (also called the Viraja River, which is the border between the spiritual and material world), becomes the resting place of the jiva-shakti. This is the collective energy of the individual spirit souls, the jivatmas. \u201CThere is one marginal potency, known as the jiva. Maha-Vishnu is the shelter of all jivas.\u201D It is this Shri Hari who is the original source of all living entities because they are expansions of His marginal potency. Some become conditioned by the material energy while others are under the protection of the spiritual nature."
     ),
+    " ",
+    React.createElement("br", null),
     React.createElement(
         "p",
         null,

@@ -4,7 +4,7 @@ var template = (
     <div>
         <h1> Hari Sarvothama Vaayu Jeevothama </h1> 
             <p>It is further explained that Maha-Vishnu, who appears in the Karana Ocean (also called the Viraja River, which is the border between the spiritual and material world), becomes the resting place of the jiva-shakti. This is the collective energy of the individual spirit souls, the jivatmas. “There is one marginal potency, known as the jiva. Maha-Vishnu is the shelter of all jivas.” It is this Shri Hari who is the original source of all living entities because they are expansions of His marginal potency. Some become conditioned by the material energy while others are under the protection of the spiritual nature.
-            </p> 
+            </p> <br />
             <p>Lord Maha-Vishnu is the source of thousands of avataras in His thousands and thousands of subjective portions. He is the creator of countless individual souls. He is also known by the name of Narayana, meaning the shelter of all the individual jiva souls. 
             </p> 
             <ol>
